@@ -2,16 +2,8 @@
 
 ## Participant Details
 
-**Full Name:**  
-MOHAMMED SAFIA TABASSUM
-
-**GitHub Username:**  
-# Open Source Hackathon 2026 Project Submission
-
-## Participant Details
-
 **Full Name:**
-Safia Tabassum
+MOHAMMED SAFIA TABASSUM
 
 **GitHub Username:**
 mdsafiatabassum-code
@@ -36,18 +28,26 @@ AfterMind is an AI-powered emotional storytelling and journaling platform that h
 **Tech Stack Used:**
 
 • React.js
+
 • Vite
+
 • Tailwind CSS
+
 • JavaScript
+
 • TypeScript
+
 • Netlify
+
 • OpenAI API
+
 • Firebase
+
 • GitHub
-* AI-assisted development tools
+
 
 **GitHub Repository Link:**
-(Paste your public GitHub repository link)
+[(Paste your public GitHub repository link)](https://github.com/mdsafiatabassum-code/AFTERMIND-WEBSITE)
 
 **Live Demo Link:**
 [(https://youtu.be/GzL-dPz-5-I?si=MbqQ__L_bQq6lkHI)](https://youtu.be/GzL-dPz-5-I?si=XV6YTCI1rhTJQ2bX)
