@@ -47,7 +47,7 @@ AfterMind is an AI-powered emotional storytelling and journaling platform that h
 
 
 **GitHub Repository Link:**
-[(Paste your public GitHub repository link)](https://github.com/mdsafiatabassum-code/AFTERMIND-WEBSITE)
+(https://github.com/mdsafiatabassum-code/AFTERMIND-WEBSITE)
 
 **Live Demo Link:**
 [(https://youtu.be/GzL-dPz-5-I?si=MbqQ__L_bQq6lkHI)](https://youtu.be/GzL-dPz-5-I?si=XV6YTCI1rhTJQ2bX)
